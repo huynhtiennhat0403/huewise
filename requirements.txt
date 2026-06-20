@@ -1,0 +1,5 @@
+# Core AI & RAG
+langchain==0.3.7
+langchain-community==0.3.7
+langchain-chroma==0.1.4
+langchain-huggingface==0.1.2
